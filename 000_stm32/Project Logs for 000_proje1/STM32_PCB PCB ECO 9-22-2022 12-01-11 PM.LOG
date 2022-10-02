@@ -1,0 +1,9 @@
+Added Component: Designator=J7(Header 2.54 1x3)
+Added Pin To Net: NetName=GND Pin=J7-3
+Added Pin To Net: NetName=+5 Pin=J7-1
+Added Net: Name=+5
+Added Pin To Net: NetName=NetJ7_2 Pin=J7-2
+Added Pin To Net: NetName=NetJ7_2 Pin=U3-25
+Added Net: Name=NetJ7_2
+Added Member To Class: ClassName=STM32_sematik Member=Component J7 Header 2.54 1x3
+Added Room: Name=STM32_sematik

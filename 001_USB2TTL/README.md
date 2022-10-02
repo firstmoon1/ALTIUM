@@ -2,7 +2,7 @@ THIS IS A DEMONSTRATION OF stm32 PROJECT,THAT WAS DONE BY MY INTEREST,GERBER AND
 
 SCHMATIC
 
-![](images/schematic.png)
+![](images/schmatic.png)
 
 TOP OVERLAY
 

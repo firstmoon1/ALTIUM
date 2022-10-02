@@ -1,0 +1,11 @@
+Added Component: Designator=IC?(D2PAK)
+Add Pin To Net: Unknown Pin: Pin I1-2
+Added Pin To Net: NetName=VCC Pin=IC?-1
+Added Pin To Net: NetName=NetD1_2 Pin=IC?-2
+Added Pin To Net: NetName=GND Pin=IC?-3
+Added Pin To Net: NetName=GND Pin=IC?-3
+Added Pin To Net: NetName=feedback Pin=IC?-4
+Added Pin To Net: NetName=GND Pin=IC?-5
+Added Member To Class: ClassName=LM2596_DC_TO_DC_schematic Member=Component IC? LM2596
+Added Room: Name=LM2596_DC_TO_DC_schematic
+PCB-ECO: Change Pad Pin/Pkg Length: Old=10mil New=0mil

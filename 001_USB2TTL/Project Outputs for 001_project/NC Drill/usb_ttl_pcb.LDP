@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\Public\Documents\Altium\Projects\001_USB2TTL\usb_ttl_pcb.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=usb_ttl_pcb.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Rect_Holes|DrillFile=usb_ttl_pcb-rectholes.txt|DrillLayers=gtl,gbl

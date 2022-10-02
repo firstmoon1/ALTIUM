@@ -1,0 +1,5 @@
+Added Component: Designator=I1(SRR1280_Inductor)
+Added Pin To Net: NetName=NetD1_2 Pin=I1-1
+Added Pin To Net: NetName=NetC1_1 Pin=I1-2
+Added Member To Class: ClassName=LM2596_DC_TO_DC_schematic Member=Component I1 INDUCTOR_33uH
+Added Room: Name=LM2596_DC_TO_DC_schematic

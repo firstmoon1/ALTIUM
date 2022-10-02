@@ -1,0 +1,85 @@
+Added Component: Designator=C1(CAPACITOR C1206)
+Added Component: Designator=C2(CAPACITOR C1206)
+Added Component: Designator=C3(CAPACITOR C1206)
+Added Component: Designator=C4(CAPACITOR C1206)
+Added Component: Designator=C5(CAPACITOR C1206)
+Added Component: Designator=C6(CAPACITOR C1206)
+Added Component: Designator=C7(CAPACITOR C1206)
+Added Component: Designator=H1(header 1x6)
+Added Component: Designator=L1(led)
+Added Component: Designator=L2(led)
+Added Component: Designator=L3(led)
+Added Component: Designator=O1(CRYSTAL OSC.)
+Added Component: Designator=R1(RESISTOR 1K)
+Added Component: Designator=R2(RESISTOR 1K)
+Added Component: Designator=R3(RESISTOR 1K)
+Added Component: Designator=R4(RESISTOR 1K)
+Added Component: Designator=U1(usb_style a_male 4_contact)
+Added Component: Designator=U2(CH340G)
+Added Pin To Net: NetName=3.3V Pin=C7-1
+Added Pin To Net: NetName=3.3V Pin=H1-3
+Added Pin To Net: NetName=3.3V Pin=U2-4
+Added Net: Name=3.3V
+Added Pin To Net: NetName=5V Pin=C1-1
+Added Pin To Net: NetName=5V Pin=C3-2
+Added Pin To Net: NetName=5V Pin=C4-2
+Added Pin To Net: NetName=5V Pin=H1-1
+Added Pin To Net: NetName=5V Pin=L1-1
+Added Pin To Net: NetName=5V Pin=L2-1
+Added Pin To Net: NetName=5V Pin=L3-1
+Added Pin To Net: NetName=5V Pin=U1-1
+Added Pin To Net: NetName=5V Pin=U2-16
+Added Net: Name=5V
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=GND Pin=H1-6
+Added Pin To Net: NetName=GND Pin=R3-2
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=GND Pin=U2-1
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=U2-13
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC2_2 Pin=H1-2
+Added Net: Name=NetC2_2
+Added Pin To Net: NetName=NetC5_2 Pin=C5-2
+Added Pin To Net: NetName=NetC5_2 Pin=O1-1
+Added Pin To Net: NetName=NetC5_2 Pin=U2-7
+Added Net: Name=NetC5_2
+Added Pin To Net: NetName=NetC6_2 Pin=C6-2
+Added Pin To Net: NetName=NetC6_2 Pin=O1-2
+Added Pin To Net: NetName=NetC6_2 Pin=U2-8
+Added Net: Name=NetC6_2
+Added Pin To Net: NetName=NetH1_4 Pin=H1-4
+Added Pin To Net: NetName=NetH1_4 Pin=R4-2
+Added Net: Name=NetH1_4
+Added Pin To Net: NetName=NetH1_5 Pin=H1-5
+Added Pin To Net: NetName=NetH1_5 Pin=R2-2
+Added Pin To Net: NetName=NetH1_5 Pin=U2-3
+Added Net: Name=NetH1_5
+Added Pin To Net: NetName=NetL1_2 Pin=L1-2
+Added Pin To Net: NetName=NetL1_2 Pin=R1-1
+Added Net: Name=NetL1_2
+Added Pin To Net: NetName=NetL2_2 Pin=L2-2
+Added Pin To Net: NetName=NetL2_2 Pin=R2-1
+Added Net: Name=NetL2_2
+Added Pin To Net: NetName=NetL3_2 Pin=L3-2
+Added Pin To Net: NetName=NetL3_2 Pin=R3-1
+Added Net: Name=NetL3_2
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=R4-1
+Added Pin To Net: NetName=NetR1_2 Pin=U2-2
+Added Net: Name=NetR1_2
+Added Pin To Net: NetName=NetU1_2 Pin=U1-2
+Added Pin To Net: NetName=NetU1_2 Pin=U2-6
+Added Net: Name=NetU1_2
+Added Pin To Net: NetName=NetU1_3 Pin=U1-3
+Added Pin To Net: NetName=NetU1_3 Pin=U2-5
+Added Net: Name=NetU1_3
+Added Class: Name=usb_ttl_schematic
+Added Room: Name=usb_ttl_schematic

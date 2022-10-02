@@ -1,0 +1,17 @@
+Added Component: Designator=R3(LDR)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/LDR/Applied+Avionics/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Fairway Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LDR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LDR/Applied+Avionics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found EG1218
+Added Pin To Net: NetName=LDR Pin=R3-1
+Added Pin To Net: NetName=5V Pin=R3-2
+Add Pin To Net: Unknown Pin: Pin S1-O
+Add Pin To Net: Unknown Pin: Pin S1-P
+Add Pin To Net: Unknown Pin: Pin S1-S
+Added Member To Class: ClassName=Sheet1 Member=Component R3 LDR
+Add Class Member: Failed to add class member : Component S1 switch_EG1218

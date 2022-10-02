@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [boost_converter_PCB1.PcbDoc]
+   Generated File[boost_converter_PCB1-RoundHoles.TXT]
+   Generated File[boost_converter_PCB1-SquareHoles.TXT]
+   Generated File[boost_converter_PCB1.LDP]
+   Generated File[boost_converter_PCB1.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 10:12:29 PM On 10/2/2022

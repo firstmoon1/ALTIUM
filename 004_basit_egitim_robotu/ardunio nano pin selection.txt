@@ -1,0 +1,17 @@
+
+switch
+dc jack
+bayrak logo
+lrt logo
+servo pwm 		d3
+voltaj sensor 		a0
+ws2812b 		d2
+lm23 sıcaklık sensor 	a1
+ldr 			a2
+buzzer 			d4 pwm
+hscr04 			d7-d6
+motor surucu 		d13-d12-d11-d10-d9-d8
+bt 			d0-d1
+kuzul ötesi 		d5
+cizgi 			a3-a6-a7
+I2C CONNECTORU 		A4-A5

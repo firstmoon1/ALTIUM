@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=VCC Pin=IC?-1
+Removed Pin From Net: NetName=NetD1_2 Pin=IC?-2
+Removed Pin From Net: NetName=GND Pin=IC?-3
+Removed Pin From Net: NetName=GND Pin=IC?-3
+Removed Pin From Net: NetName=feedback Pin=IC?-4
+Removed Pin From Net: NetName=GND Pin=IC?-5
+Removed Member From Class: ClassName=LM2596_DC_TO_DC_schematic Member=IC?
+Added Component: Designator=IC1(D2PAK)
+Add Pin To Net: Unknown Pin: Pin I1-2
+Added Pin To Net: NetName=VCC Pin=IC1-1
+Added Pin To Net: NetName=NetD1_2 Pin=IC1-2
+Added Pin To Net: NetName=GND Pin=IC1-3
+Added Pin To Net: NetName=GND Pin=IC1-3
+Added Pin To Net: NetName=feedback Pin=IC1-4
+Added Pin To Net: NetName=GND Pin=IC1-5
+Added Member To Class: ClassName=LM2596_DC_TO_DC_schematic Member=Component IC1 LM2596
+Added Room: Name=LM2596_DC_TO_DC_schematic

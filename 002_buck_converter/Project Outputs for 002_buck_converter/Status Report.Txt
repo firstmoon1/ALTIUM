@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [LM2596_DC_TO_DC_PCB1.PcbDoc]
+   Generated File[LM2596_DC_TO_DC_PCB1.TXT]
+   Generated File[LM2596_DC_TO_DC_PCB1.LDP]
+   Generated File[LM2596_DC_TO_DC_PCB1.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 10:10:30 PM On 10/2/2022

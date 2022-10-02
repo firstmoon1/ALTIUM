@@ -1,0 +1,11 @@
+Added Component: Designator=A1(LM35DZ_TO92127P521H735-3)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LM35DZ/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=A1-1
+Added Pin To Net: NetName=TEMP Pin=A1-2
+Added Pin To Net: NetName=GND Pin=A1-3
+Added Member To Class: ClassName=Sheet1 Member=Component A1 LM35DZ/NOPB

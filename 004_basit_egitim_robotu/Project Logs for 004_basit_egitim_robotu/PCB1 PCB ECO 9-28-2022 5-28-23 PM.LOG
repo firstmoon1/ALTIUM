@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=BT-TX Pin=J4-3
+Added Pin To Net: NetName=BT-RX Pin=R5-2
+Added Pin To Net: NetName=BT-RX Pin=R6-1
+Added Room: Name=Sheet1

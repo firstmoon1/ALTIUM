@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=VIN Pin=L3-1
+Removed Pin From Net: NetName=NetD1_1 Pin=L3-2
+Removed Member From Class: ClassName=boost_converter_schematic Member=L3

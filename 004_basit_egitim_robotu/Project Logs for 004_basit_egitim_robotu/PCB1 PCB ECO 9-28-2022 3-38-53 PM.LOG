@@ -1,0 +1,12 @@
+Change Component Footprint: Designator=A1 Old Footprint=TO92127P521H735-3 LM35DZ New Footprint=LM35DZ_TO92127P521H735-3
+Added Component: Designator=S1(EG1218)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "EG1218"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=S1-O
+Added Pin To Net: NetName=VIN Pin=S1-P
+Added Pin To Net: NetName=NetJ3_1 Pin=S1-S
+Added Member To Class: ClassName=Sheet1 Member=Component S1 switch_EG1218

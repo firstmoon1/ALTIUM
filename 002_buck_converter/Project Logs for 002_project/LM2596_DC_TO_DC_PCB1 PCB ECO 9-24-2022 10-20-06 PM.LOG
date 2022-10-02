@@ -1,0 +1,7 @@
+Added Component: Designator=J2(klemens 1x2 3.5mm)
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=VOUT Pin=J2-1
+Added Net: Name=VOUT
+Added Member To Class: ClassName=LM2596_DC_TO_DC_schematic Member=Component I1 INDUCTOR_33uH
+Added Member To Class: ClassName=LM2596_DC_TO_DC_schematic Member=Component J2 klemens 1x2 3.5mm
+Added Room: Name=LM2596_DC_TO_DC_schematic

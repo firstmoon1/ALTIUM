@@ -1,0 +1,13 @@
+
+header 1x6         3d alındı  		DONE
+micro usb female   3d alındı  		DONE
+cap 10uF           3d alındı    	DONE
+cap 100nF	   3d alındı    	DONE
+cap 22pF   	   3d alındı    	DONE
+CH340G		3d alındı		DONE
+resistor 1k 	3d alındı 		DONE
+led   		3d alındı		DONE
+crystal osclilator 12MHz  3d alındı	DONE
+
+
+

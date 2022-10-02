@@ -1,0 +1,29 @@
+Added Component: Designator=C1(CAPACITOR)
+Added Component: Designator=C2(CAPACITOR)
+Added Component: Designator=D1(DIODE_deneme)
+Added Component: Designator=I1(SRR1280_Inductor)
+Add Component: Footprint Not Found D2PAK
+Added Component: Designator=J1(klemens 1x2 3.5mm)
+Added Component: Designator=R1(R1206 RESISTER)
+Added Component: Designator=R2(R1206 RESISTER)
+Added Pin To Net: NetName=feedback Pin=R1-1
+Added Pin To Net: NetName=feedback Pin=R2-2
+Added Net: Name=feedback
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=D1-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=R1-2
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=I1-1
+Added Pin To Net: NetName=NetD1_2 Pin=I1-1
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=VCC Pin=C2-1
+Added Pin To Net: NetName=VCC Pin=J1-1
+Added Net: Name=VCC
+Added Class: Name=LM2596_DC_TO_DC_schematic
+Added Room: Name=LM2596_DC_TO_DC_schematic

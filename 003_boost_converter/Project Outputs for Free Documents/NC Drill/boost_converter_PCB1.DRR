@@ -1,0 +1,16 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: boost_converter_PCB1.PcbDoc   10/2/2022  10:12:28 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : boost_converter_PCB1-RoundHoles.TXT
+ASCII SquareHoles File : boost_converter_PCB1-SquareHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      1.1mm (43mil)                                             Round             2         PTH        8.00mm (0.31inch)
+T2      2mm (79mil)                                               Square            4         PTH        147.79mm (5.82inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              6
+
+Total Processing Time (hh:mm:ss) : 00:00:00

@@ -1,2 +1,2 @@
 # ALTIUM
- projects
+Altium projects only
